@@ -95,5 +95,5 @@ public class Discount implements Serializable {
     public String toString() {
         return "com.emsi.tpcustomernoury.entity.Discount[ code=" + code + " ]";
     }
-    
+
 }

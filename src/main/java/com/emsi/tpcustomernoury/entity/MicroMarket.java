@@ -116,5 +116,5 @@ public class MicroMarket implements Serializable {
     public String toString() {
         return "com.emsi.tpcustomernoury.entity.MicroMarket[ zipCode=" + zipCode + " ]";
     }
-    
+
 }

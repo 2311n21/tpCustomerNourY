@@ -192,5 +192,5 @@ public class Customer implements Serializable {
     public String toString() {
         return "com.emsi.tpcustomernoury.entity.Customer[ customerId=" + customerId + " ]";
     }
-    
+
 }
