@@ -15,7 +15,7 @@ import java.util.List;
 /**
  *
  * @author mac
- * 
+ *
  * Backing bean pour la page customerList.xhtml .
  */
 @Named(value = "customerBean")
